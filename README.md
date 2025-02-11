@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Bienvenido/a 👋</h1>
+<h1 align="center">Welcome 👋</h1>
+
+<p>I made programming my fun, work and way of thinking. I like challenges and unusual projects.</p>
 
